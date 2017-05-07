@@ -1,2 +1,2 @@
 # memory-game
--Mini project from edX course(AsynJs)
+-Experimenting with game development.
